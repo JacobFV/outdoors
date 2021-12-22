@@ -3,6 +3,7 @@
     "displayName": "Outdoors",
     "description": "Color theme reminiscent of the great outdoors!",
     "version": "0.0.1",
+    "publisher": "JacobValdez",
     "repository": "https://github.com/JacobFV/outdoors",
     "engines": {
         "vscode": "^1.63.0"
