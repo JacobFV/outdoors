@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Outdoorss",
+                "label": "Outdoors",
                 "uiTheme": "vs",
-                "path": "./themes/Outdoorss-color-theme.json"
+                "path": "./themes/Outdoors-color-theme.json"
             }
         ]
     }
