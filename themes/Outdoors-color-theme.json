@@ -720,6 +720,7 @@
 		{
 			"scope": "variable.language.special.self.python,comment.line.number-sign.python,comment,punctuation.definition.comment,comment,comment markup.link,entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super,var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
 			"settings": {
+				"foreground": "#44331c",
 				"fontStyle": "italic"
 			}
 		},
