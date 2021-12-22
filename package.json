@@ -1,0 +1,21 @@
+{
+    "name": "outdoors",
+    "displayName": "Outdoors",
+    "description": "Colors reminiscent of the great outdoors!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Outdoorss",
+                "uiTheme": "vs",
+                "path": "./themes/Outdoorss-color-theme.json"
+            }
+        ]
+    }
+}
